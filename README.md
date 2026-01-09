@@ -1,8 +1,9 @@
 # 🎮 V-PRO Coupon Manager
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fv-pro-project%2Fcoupon-manager&label=Visitor&icon=github&color=%2384735b&message=&style=flat&tz=Asia%2FSeoul)
-![Downloads](https://img.shields.io/github/downloads/v-pro-project/coupon-manager/total?style=flat-square&logo=github&label=Downloads&color=blue)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-important?style=flat-square&logo=apple)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fv-pro-project%2Fcoupon-manager&label=Visitor&icon=github&color=%2384735b&message=&style=flat&tz=Asia%2FSeoul)</br>
+![Downloads](https://img.shields.io/github/downloads/v-pro-project/coupon-manager/total?style=flat-square&logo=github&label=Downloads&color=blue)</br>
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-important?style=flat-square&logo=apple)</br>
+![Version](https://img.shields.io/badge/Version-v1.0-ff69b4?style=flat-square&logo=github)</br>
 
 > **컴투스 프로야구 V25 쿠폰 입력기입니다.**
 > 
